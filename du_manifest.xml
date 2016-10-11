@@ -27,7 +27,9 @@
 <!--Repos to remove-->
 
   <remove-project name="android_hardware_qcom_wlan" />
+  <remove-project name="android_packages_services_Telephony" />
 <!--Repos to replace-->
   <project name="CyanogenMod/android_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" remote="github" revision="cm-13.0-caf" />
-  
+  <project name="CheckYourScreen/android_packages_services_Telephony" path="packages/services/Telephony" remote="github" revision="m" /> 
+
 </manifest>
