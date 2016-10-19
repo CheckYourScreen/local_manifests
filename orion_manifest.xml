@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CheckYourScreen/device_oneplus_onyx" path="device/oneplus/onyx" remote="github" revision="mm6.0" />
+  <project name="CheckYourScreen/device_oneplus_onyx" path="device/oneplus/onyx" remote="github" revision="orion" />
   <project name="CheckYourScreen/device_oppo_common" path="device/oppo/common" remote="github" revision="m6.0.1" />
   <project name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" remote="github" revision="stable" />
   <project name="CheckYourScreen/vendor_oneplus" path="vendor/oneplus" remote="github" revision="6.0" />
