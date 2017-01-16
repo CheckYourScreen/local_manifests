@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CheckYourScreen/device_oneplus_onyx" path="device/oneplus/onyx" remote="github" revision="validus" />
+  <project name="CheckYourScreen/device_oneplus_onyx" path="device/oneplus/onyx" remote="github" revision="validus-n" />
 </manifest>
